@@ -4,6 +4,7 @@ import { Search } from "../components/search";
 import { Preloader } from '../components/preloader';
 import { ErrorMessage } from '../components/ErrorMessage';
 import { EmptyResult } from '../components/EmptyResult';
+import { MovieDetails } from '../components/MovieDetails';
 
 class Main extends Component {
     state = { 
